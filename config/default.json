@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "PierreGoodman youtube mern",
+  "mongoUri": "mongodb+srv://PierreGoodman:qweasd@cluster0.5dn5c.azure.mongodb.net/app?retryWrites=true&w=majority"
+}
